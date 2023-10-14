@@ -1,0 +1,10 @@
+# shapefiles
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.cpg
+*.xml
+*.lock
